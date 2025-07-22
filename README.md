@@ -1,1 +1,2 @@
-# verificador-de-cart-o
+# Verificador-de-Cartao
+Validador de número de cartão de crédito implementado em C, com base no Algoritmo de Luhn. O programa solicita a entrada de um número de cartão, valida seu formato (comprimento e dígitos), aplica o cálculo de verificação e identifica a bandeira (AMEX, MasterCard ou Visa), exibindo "INVALID" em caso de inconsistência. Ideal para treinar estruturas de repetição, condicionais, funções e manipulação de números em C.
