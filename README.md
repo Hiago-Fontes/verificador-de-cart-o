@@ -1,2 +1,2 @@
 ### Card-Validator 💳
-Credit card number validator implemented in C, based on the Luhn Algorithm. The program takes a card number as input, checks its format (length and digits), performs the validation calculation, and identifies the card brand (AMEX, MasterCard, or Visa). If the number is invalid, it displays "INVALID." This project is ideal for practicing conditional structures, loops, functions, and number manipulation in C.
+Validador de cartão de crédito em C, usando o Algoritmo de Luhn para validar números e identificar bandeiras (AMEX, MasterCard, Visa). Ideal para praticar lógica condicional, laços, funções e manipulação de números.
